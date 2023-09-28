@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: MainFrame
+Class-Path: opencv-460.jar
+

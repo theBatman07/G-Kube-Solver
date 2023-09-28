@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Rubiks-Cube-Solver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rubiks_Cube_Solver_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Rubiks-Cube-Solver.jar">
+        <element id="module-output" name="Rubiks-Cube-Solver" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../../opencv/build/java/opencv-460.jar" />
+    </root>
+  </artifact>
+</component>
